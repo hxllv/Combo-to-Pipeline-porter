@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>runner</name>
+   <tag></tag>
+   <comment>PLEASE READ!
+How url's should look:
+combourl = http://kekec:8080/job/{{comboName}}/configure
+pipelineurl = http://kekec:8080/job/{{pipelineName}}/configure
+After runner is done, double check script and delete trailing curly braces.
+If any editing of the &quot;main&quot; test case is needed, only edit it in script view, as editing in manual view messes up the script</comment>
+   <testCaseGuid>965280e0-2848-4c05-8bbd-9babdea83bf1</testCaseGuid>
+</TestCaseEntity>

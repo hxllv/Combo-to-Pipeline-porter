@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>main</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a8d58ff-11d0-4ab9-8559-891e9540e175</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a04749c0-586e-4cc6-a7a9-2a1f544a38da</id>
+      <masked>false</masked>
+      <name>combourl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a198bd96-0424-4f5a-9482-1b8dcb7e76d8</id>
+      <masked>false</masked>
+      <name>pipelineurl</name>
+   </variable>
+</TestCaseEntity>
